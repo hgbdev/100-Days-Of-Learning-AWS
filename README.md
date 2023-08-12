@@ -5,8 +5,7 @@
 ## Progess update
 
 ### Day 1
-- I begin the course and identify my desired target.
-- Region & Available Zone
-- [AWS Services by Region](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
-- Prices may vary across AWS regions
-- Not all AWS services are available in every region
+🌎 Regions & Availability Zones: Understanding the AWS global infrastructure.
+🔀 AWS Services by Region: Tailoring solutions based on geographic availability.
+💰 Price Variations: Remember, costs can differ between AWS regions.
+🛠️ Service Availability: Not all AWS services are offered in every region.
