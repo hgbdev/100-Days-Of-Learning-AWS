@@ -5,7 +5,7 @@
 ## Progess update
 
 ### Day 1
-🌎 Regions & Availability Zones: Understanding the AWS global infrastructure.
-🔀 AWS Services by Region: Tailoring solutions based on geographic availability.
-💰 Price Variations: Remember, costs can differ between AWS regions.
-🛠️ Service Availability: Not all AWS services are offered in every region.
+- 🌎 Regions & Availability Zones: Understanding the AWS global infrastructure.
+- 🔀 AWS Services by Region: Tailoring solutions based on geographic availability.
+- 💰 Price Variations: Remember, costs can differ between AWS regions.
+- 🛠️ Service Availability: Not all AWS services are offered in every region.
