@@ -1,4 +1,4 @@
-# 100 days of learning AWS SAA-C03
+# 100 days of learning AWS
 ## Overview
 - On this journey, I follow this course [Ultimate AWS Certified Solutions Architect Associate SAA-C03 | Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 
