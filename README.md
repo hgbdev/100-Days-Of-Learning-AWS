@@ -31,3 +31,10 @@ Best IAM practices I'm taking to heart:
 - Access Keys for programmatic access.
 - Audit using Reports & Access Advisor.
 - IAM users & Access Keys stay private.
+
+### Day 3
+- AWS Budget Setup: Keeping track of costs.
+- EC2 Basics: Unraveling the magic of Elastic Compute Cloud and comprehending how it powers scalable computing in the cloud. 🌩️☁️
+- Creating an EC2 Instance: Hands-on website setup with EC2 User Data.
+- Decoding EC2 Instance Types: Learning the intriguing meanings behind instance type names like t2.micro, m5.large, and more. 🕵️‍♂️💻
+- Exploring EC2 Instance Types: Getting acquainted with the options and comparisons.
